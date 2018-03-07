@@ -1,6 +1,6 @@
-# OHG React Base #
+# React Base #
 
-Base project for React Based Projects for OHG.
+Base project for React Based Projects.
 
 ## Technologies ##
 
