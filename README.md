@@ -1,10 +1,6 @@
-<<<<<<< HEAD
 # React Base #
 
 Base project for React Based Projects.
-=======
-# EHNYPROJECT24-TakedaCoPay
->>>>>>> update react base
 
 ## Technologies ##
 
@@ -12,8 +8,7 @@ Base project for React Based Projects.
 2. [Redux](https://redux.js.org/)
 3. HTML5
 4. SCSS
-5. [Semantic UI React](https://react.semantic-ui.com)
-6. [Create React App](https://github.com/facebook/create-react-app) as project builder.
+5. [Create React App](https://github.com/facebook/create-react-app) as project builder.
 
 ## Setting up develop environment ##
 
